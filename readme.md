@@ -1,1 +1,4 @@
-### this is a repo with feature 02
+### python flask with docker
+
+- this application is written in python
+- it shall be deployed on gke
